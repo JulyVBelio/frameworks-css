@@ -1,0 +1,24 @@
+body{
+    background-color: #EDE7F6;
+}
+
+.navbar-settings{
+    background-color: #495186;
+}
+
+.tit-color{
+    color: white;
+}
+
+.tit-color:hover{
+    color: pink;
+}
+
+.footer-settings{
+    background-color: #A3A3CE;
+}
+
+.footer-settings1{
+    color: white;
+    background-color: #495186;
+}
